@@ -1,6 +1,6 @@
 ## Olá! Pode me chamar de Thisgo
 <div style="display: flex; align-items: center;">
-<div style="flex: 4">
+<div style="flex: 1">
 <ul>
   <li>🔭 Desenvolvedor FullStack: HTML/CSS/JAVASCRIPT/VUEJS/NODE/POSTGRES</li>
   <li>🌱 Estudando ANGULAR E JAVA</li>
@@ -13,11 +13,7 @@
     <ul>
   </li>
 </ul>
-</div>
-<div style="flex: 1;"></div>
-<div style="flex: 1;">
-    <img height="150em" src="https://github.com/ThiagodaSilva27/ThiagodaSilva27/assets/58118544/15a69c25-d1ee-4c48-ba1c-02fe2f469dbd" />
-</div>
+    </div>
 </div>
 
 
