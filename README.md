@@ -3,8 +3,6 @@
 <div style="flex: 1">
 <ul>
   <li>🔭 Desenvolvedor FullStack: HTML/CSS/JAVASCRIPT/VUEJS/NODE/POSTGRES</li>
-  <li>🌱 Estudando ANGULAR E JAVA</li>
-  <li>🦶 Próximos passos: aprofundar conhecimentos em Vue3, React e React Native</li>
   <li>🎯 Se tornar um desenvolvedor Javascript completo:
     <ul>
         <li>Dominando Javascript/Typescript</li>
@@ -23,7 +21,6 @@
 
 <div>
   <a href="https://github.com/ThiagodaSilva27">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagodaSilva27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagodaSilva27&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
@@ -34,11 +31,8 @@
     <img align="center" alt="Thisgo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Thisgo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Thisgo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Thisgo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Thisgo-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-    <img align="center" alt="Thisgo-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
     <img align="center" alt="Thisgo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Thisgo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   </div>
   
   ##
