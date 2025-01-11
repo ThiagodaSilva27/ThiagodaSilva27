@@ -6,9 +6,7 @@
   <li>🎯 Se tornar um desenvolvedor web completo:
     <ul>
         <li>Dominando Javascript/Typescript</li>
-        <li>Dominando Node</li>
-        <li>Dominando os 3 Frameworks principais (Vue, React e Angular)</li>
-        <li>Dominando Laravel e PHP</li>
+        <li>Vue</li>
     <ul>
   </li>
 </ul>
@@ -26,9 +24,6 @@
     <img align="center" alt="Thisgo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Thisgo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Thisgo-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-    <img align="center" alt="Thisgo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Thisgo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="Thisgo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   </div>
   
   ##
