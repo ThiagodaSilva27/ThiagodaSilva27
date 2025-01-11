@@ -2,7 +2,7 @@
 <div style="display: flex; align-items: center;">
 <div style="flex: 1">
 <ul>
-  <li>🔭 Desenvolvedor FullStack: HTML/CSS/JAVASCRIPT/VUEJS/NODE/POSTGRES/PHP/LARAVEL</li>
+  <li>🔭 Desenvolvedor</li>
   <li>🎯 Se tornar um desenvolvedor web completo:
     <ul>
         <li>Dominando Javascript/Typescript</li>
